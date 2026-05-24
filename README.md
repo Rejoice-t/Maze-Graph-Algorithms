@@ -1,7 +1,4 @@
 # Maze-Graph-Algorithms
-
-# Maze Graph Algorithms Project
-
 ## Project Overview
 
 This project solves multiple graph problems using a maze represented as a text file. The maze is interpreted as a graph where each non-wall cell is treated as a vertex, and edges are created between neighboring cells.
